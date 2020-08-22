@@ -1,2 +1,2 @@
 # Typing-Game
-An original desktop game made by me.
+An original desktop game
