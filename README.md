@@ -1,2 +1,2 @@
 # Typing-Game
-A desktop game written in java using the javaFX library.
+An original desktop game made by me.
